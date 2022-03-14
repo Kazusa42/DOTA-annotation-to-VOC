@@ -1,7 +1,7 @@
 # DOTA-annotation-to-VOC
 Convert DOTA dataset annotation to VOC annotation
 
-##NOTICE
+## NOTICE
 1. DOTA dataset has 2 types of ground truth. (oriented bounding box and horizontal bounding boxes).  
 2. oriented bounding box: bbox may not be horizontal.  
 3. horizontal bounding boxes: same bbox as VOC or VisDrone.  
