@@ -1,7 +1,7 @@
 import os
 from PIL import Image
 
-root_dir = r"C:\Users\lyin0\Desktop\Dataset\DOTA\train\\"  # visdrone dataset path
+root_dir = r"C:\Users\lyin0\Desktop\Dataset\DOTA\train\\"  # DOTA dataset path
 annotations_dir = root_dir + r"Train_Task2_gt/trainset_reclabelTxt\\"
 image_dir = root_dir + r"images/"
 xml_dir = root_dir + r"Annotations_XML/"  # output xml file path
